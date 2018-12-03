@@ -21,15 +21,15 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Udevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="usbHidden.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="UDevice.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
